@@ -11,6 +11,10 @@ public class Water {
             }
         }
     }
+    public void plusWater(int amount){
+        capacity += amount;
+    }
+
     public int getCapacity(){
         return capacity;
     }

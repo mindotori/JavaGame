@@ -8,6 +8,9 @@ public class WaterMain {
         mj.drinkWater(water);
         mj.drinkWater(water);
         mj.drinkWater(water);
+        mj.plusWater(water);
+        mj.plusWater(water);
+        mj.plusWater(water);
     }
 }
 
