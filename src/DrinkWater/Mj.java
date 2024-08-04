@@ -11,4 +11,5 @@ public class Mj {
         water.plusWater(40);
         System.out.println("민주가 물을 뱉는다. 추가된 물의 용량은: " + water.getCapacity());
     }
+
 }
